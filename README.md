@@ -2,7 +2,7 @@
 📫 How to reach me: bakhodirsolievbusiness@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-
+[![My Skills](https://skillicons.dev/icons?i=python,c,c++,java,c#,js,html,css,kotlin,androidstudio,figma,php,aws,git,docker,arduino,autocad,ai,postman,sqlite,mongodb)](https://skillicons.dev)
 
 
 
