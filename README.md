@@ -1,7 +1,8 @@
 ## Hi there 👋
-
+📫 How to reach me: bakhodirsolievbusiness@gmail.com
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
- 📫 How to reach me: bakhodirsolievbusiness@gmail.com
+
+
 
 
 <!--
